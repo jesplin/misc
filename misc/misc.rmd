@@ -1,0 +1,202 @@
+---
+title: "misc"
+author: "Jess Esplin"
+date: "9/15/2020"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+jesplin@wisc.edu
+
+jessesplin.webpage.com
+
+
+
+
+Education
+-	
+
+University of Wisconsin-Madison, Aug. 2020-Present
+
+-	Ph.D. in Political Science expected Spring 2025
+
+
+The University of Utah, Salt Lake City, UT 
+
+-	Graduated Cum Laude May 2016
+
+-	Honors Bachelor of Science in Economics 
+
+-	Bachelor of Science in Psychology
+
+-	Minors in Political Science and Sociology
+
+
+
+
+Research Experience
+-	
+
+
+Research Assistant for Prof. Barry Burden, Aug. 2020 - Present
+
+
+
+Research Associate, University of Utah, Jan. 2018 – Oct. 2018 
+
+Center for Driving Safety and Technology
+
+-	Facilitated data collection sessions, managed equipment, and collected data from participants as they drove while testing various in-vehicle technologies
+
+-	Managed participant recruitment, scheduling, and communication
+
+-	Assisted with project and timeline management for multiple research studies
+
+-	Assisted with study procedure documents and provided feedback on study design
+
+-	Provided writing and editing expertise on research papers
+
+
+Read. Graduate. Succeed. Program Director, AmeriCorps, Dec. 2016 – July 2017 
+
+Elementary School Reading Tutoring Program
+
+-	Recruited, trained, supervised, scheduled, and managed volunteer tutors from the community
+
+-	Tracked student progress in the program and reported results to the school and to the Utah AmeriCorps program
+
+-	Conducted community outreach and hosted events for students and volunteers
+
+
+
+Fiscal Analyst Intern, Utah State Office of the Legislative Fiscal Analyst, Sept. 2016 – Feb. 2017
+
+Conducted a research project to evaluate the impact of funding on public education outcomes in the state of Utah.
+
+-	Conducted a literature review on the topic and created the study design under the direction of supervisor, Dr. Jill Curry
+
+-	Assisted with data collection and performed data evaluation and cleaning as needed
+
+-	Conducted statistical analysis and collaborated with Dr. Curry to determine findings
+
+-	Worked with Dr. Curry to write a policy brief summarizing the issue and findings and presented the report to legislators
+
+
+
+Teaching Experience
+-	
+
+N/A
+
+
+
+
+Conference Presentations
+-	
+
+
+Legislative Presentation, February 14, 2017
+
+-	Presented the report “What Drives Student Achievement Across States?” with Jill Curry to interested legislators at the Utah State Capitol and answered questions. 
+
+
+UCUR Presentation, February 19, 2016
+
+-	Presented a poster on Honors thesis, “Capital Account Liberalization and Income Inequality: 1980-2009” at the Utah Conference for Undergraduate Research (UCUR).
+
+
+
+Awards & Fellowships
+-	
+
+
+Cum Laude Honors, May 2016
+-	Awarded Cum Laude honors at graduation for a cumulative GPA ranking in the top 4.5% of the entire College of Social and Behavioral Science at the University of Utah.
+
+
+3rd Place for Best Poster, April 2016	
+
+-	Awarded 3rd place among undergraduate student submissions in the College of Social and Behavioral Science’s Student Research Day for poster and presentation of Honors thesis, “Capital Account Liberalization & Income Inequality: 1980-2009”.
+
+
+Dean’s List, Fall 2012-Spring 2016
+
+-	Recognition on the College of Social and Behavioral Science’s Dean’s List for all 8 eligible semesters for earning a GPA of 3.5 or higher in an eligible semester.
+
+
+Honors College Scholarship, March 2014
+
+-	Awarded the Daniel A. and Elizabeth C. Green Memorial Scholarship from the Honors College at the University of Utah for the 2014 academic school year.
+
+
+CSBS Honor Roll, March 2014
+
+-	Scholarship	Awarded the Chris and Katherine Howells Scholarship for the College of Social and Behavioral Sciences at the University of Utah for the 2014 academic year.
+
+
+Honors at Entrance, August 2012	
+
+-	Awarded the Honors at Entrance Scholarship tuition waiver scholarship from the Scholarship	Honors College at the University of Utah as an incoming freshman for academic achievements in high school.
+
+
+
+Service/Volunteer Work
+-	
+
+
+Economics Student Advisory Committee Chair, Aug. 2014 – May 2016 
+
+-	Organized, planned, and conducted committee meetings 
+
+-	Oversaw committee recruitment, delegated responsibilities, and coordinated with campus groups 
+
+-	Planned student outreach events and coordinated with the department to enact them
+
+-	Oversaw and coordinated student evaluations for faculty reviews
+
+
+Hinckley Journal of Politics Editorial Board Member, Sept. 2014 – April 2015
+
+-	Conducted outreach for student submissions to the journal for the 2014 academic year
+
+-	Evaluated student submissions for content, relevance, and writing strength
+
+-	Provided feedback and suggestions for student submissions and recommendations for the journal
+
+
+Skills
+-	
+
+
+-	Highly organized and detail-oriented
+
+-	Strong communication and writing skills
+
+-	Compliance with institutional policy
+
+-	Project and timeline management and planning
+
+-	Literature review, database research, fact finding
+
+-	Academic and technical writing and editing
+
+-	Compliance with institutional policies
+
+-	Participant recruitment, scheduling, and management
+
+-	Data collection, integrity, and management
+
+-	Transcription, note-taking, and maintaining records
+
+-	Presentational and lesson-planning skills
+
+-	Microsoft Office and G Suite
+
+
+
+References
+-	
+
+-	Marcy Shieh
