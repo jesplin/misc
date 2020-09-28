@@ -3,9 +3,9 @@ title: "misc"
 author: "Jess Esplin"
 date: "9/15/2020"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 ---
 
 jesplin@wisc.edu
